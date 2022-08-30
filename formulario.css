@@ -1,0 +1,11 @@
+main{
+width: 90px;
+margin: 0 auto;
+
+}
+form label {
+display: block;
+}
+form input {
+display: block;
+}
